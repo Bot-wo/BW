@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    <style>
+        #lake-1{
+            color:rgb(0, 168, 154);
+        }
+        #feild-1{
+            color:rgb(33, 153, 9);
+        }
+        h1{
+            color:red;
+        }
+        .not-color-h2{
+            color:rgb(161, 81, 11);
+        }
+        #animal-1{
+            color:rgb(214, 163, 60);
+        }
+        body{
+            background-color:rgb(64, 66, 63);
+        }
+    </style>
+        <h1>Travel to .... IDAHO</h1>
+	<a target="-blank" href="http://travel-idaho.ch">
+	Travel Idaho </a>
+        <h2 class="not-color-h2">Reasons to travel</h2>
+        <ol>
+            <li>Clean and quiet roads
+            <li>Nice people
+            <li>Fast travel
+            <li>Easy to travel and veiw
+            <li>Easy to get too places and food restuarants
+        </ol>
+        <h2 class="not-color-h2">
+            Expected veiws
+        </h2>
+        <ol>
+            <li>Grass green expected grass
+            <li>Lakes
+            <li>Clean roads and streets
+            <li>Clean fields
+        </ol>
+        <h2 class="not-color-h2">
+            Why should I go
+         </h2>
+        <p>Idaho is great place for tourism. Though it doesn't have any reconizable places to see, it has beautiful scenery and green grass. Not to say to much Idaho has easy to access restuarants and many clean roads to see. Not like other nice states its not terribly expensive to live in or visit. That is why you should atleast go see Idaho and its surroundings.</p>
+            
+            <h2 id="animal-1">
+                Animals
+            </h2>
+        <p>One of the most seen animals is are rabbits. If you havent seen a rabbit before they are fuzzy with little fuzz ball as a tail.</p>
+        <img src="https://www.kasandbox.org/programming-images/animals/rabbit.png" alt="a bunny in a barn" width="400">
+        <h2  id="lake-1">
+            Idaho lakes senery
+        </h2>
+        <p>Idaho scenes include lakes and such. though not being a Idaho lake itself most lakes look like this. This is the kind of scenery you can expect looking into Idaho.</p>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/lake.png" alt="a lake in the middle of land" width="400">
+        <h2 id="feild-1">
+            Farms and feilds
+        </h2>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/fields-of-wine.png" alt="An empty feild with a wheat farm behind" width="400">
+        
+    </body>
+</html>
